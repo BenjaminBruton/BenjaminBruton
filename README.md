@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BenjaminBruton and I'm an engineer and educator.
-- 👀 I’m interested in web, IoT, gaming, and music related projects.
-- 🌱 I’m currently learning React, Flask and DevOps (containers, CI/CD)
-- 💞️ I’m looking to collaborate on web and mobile projects utilizing React
+- 👀 I’m interested in web, IoT, gaming, music, and blockchain related projects.
+- 🌱 I’m currently learning more Python frameworks and DevOps tools.
 - 📫 How to reach me: bbruton@wgu.edu
 
 <!---
