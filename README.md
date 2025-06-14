@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BenjaminBruton and I'm an engineer and educator.
+- 👋 Hi, I’m @BenjaminBruton and I'm an engineer and consultant.
 - 👀 I’m interested in web, IoT, gaming, music, and blockchain related projects.
-- 🌱 I’m currently learning more Python frameworks and DevOps tools.
+- 🌱 I’m currently learning more NextJS and React, as well as AI and DevOps tools.
 - 📫 How to reach me: bbruton@wgu.edu
 
 <!---
