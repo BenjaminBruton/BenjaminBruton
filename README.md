@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BenjaminBruton and I'm an engineer and consultant.
-- 👀 I’m interested in web, IoT, gaming, music, and blockchain related projects.
-- 🌱 I’m currently learning more NextJS and React, as well as AI and DevOps tools.
+- 👋 Hi, I’m @BenjaminBruton and I'm a software engineer, web/mobile developer, and project manager.
+- 👀 I’m interested in managing technical projects, especially in the education, art, or energy sectors.
+- 🌱 I’m currently learning React Native and AI/ML Engineering, as well as studying for the PMP.
 - 📫 How to reach me: bbruton@wgu.edu
 
 <!---
