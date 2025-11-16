@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @BenjaminBruton and I'm a software engineer, web/mobile developer, and project manager.
-- 👀 I’m interested in managing technical projects, especially in the education, art, or energy sectors.
-- 🌱 I’m currently learning React Native and AI/ML Engineering, as well as studying for the PMP.
+- 👋 Hi, I’m @BenjaminBruton and I'm a software engineer, web/mobile developer,and security nerd.
+- 🧠 I’m interested in building, streamlining, and securing complex systems.
+- 👀 I have an analytical eye and excel at finding and fixing broken and inefficient processes.
+- 🌱 I’m currently learning React Native and AI/ML Engineering, as well as studying for the CEH exam.
 - 📫 How to reach me: bbruton@wgu.edu
 
 <!---
